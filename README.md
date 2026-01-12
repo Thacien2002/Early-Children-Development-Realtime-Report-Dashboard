@@ -4,7 +4,7 @@ Perfect! Here's the updated **README** with your contact details included:
 # Field Data Monitoring Dashboard
 
 ## Overview
-The **Field Data Monitoring Dashboard** is an interactive R Shiny application for **real-time data collection, visualization, and analysis**. It connects with platforms like **KoboToolbox** to help organizations monitor services, track performance, and make **data-driven decisions** across sectors like health, education, agriculture, or social programs.
+The Field Data Monitoring Dashboard** is an interactive R Shiny application for **real-time data collection, visualization, and analysis**. It connects with platforms like **KoboToolbox to help organizations monitor services, track performance, and make **data-driven decisions** across sectors like health, education, agriculture, or social programs.
 
 ## Features
 - Real-time **KoboToolbox** integration
